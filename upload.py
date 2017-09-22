@@ -1,4 +1,7 @@
 #!/usr/bin/env python
+
+#Copy this code in
+#/var/www/cgi-bin/upload.py
 import ntpath
 import cgi, os
 import cgitb; cgitb.enable()
